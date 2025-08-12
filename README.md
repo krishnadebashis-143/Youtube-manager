@@ -21,5 +21,5 @@ MongoDB (NoSQL Database)
 
 PyMongo (Python driver for MongoDB)
 
-                                                                                                                           #KRISHNA DEBASHIS NAYAK
+                                                                                                 #KRISHNA DEBASHIS NAYAK
                                                                                                                            
