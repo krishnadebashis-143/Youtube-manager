@@ -21,11 +21,5 @@ MongoDB (NoSQL Database)
 
 PyMongo (Python driver for MongoDB)
 
-📂 Project Structure
-bash
-Copy
-Edit
-youtube_manager/
-│── youtube_manager.py   # Main script
-│── requirements.txt     # Dependencies
-│── README.md            # Project documentation
+                                                                                                                           #KRISHNA DEBASHIS NAYAK
+                                                                                                                           
